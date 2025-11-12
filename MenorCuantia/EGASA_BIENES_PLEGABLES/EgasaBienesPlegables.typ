@@ -1,3 +1,10 @@
+// MYRMECIA S.A.C.
+// RUC: 20610905022
+// myrmeciasac@gmail.com
+// (054) 626461 / (+51) 984448575
+// Dirección: Jr. Choquehuanca Nro. 407 SRP - Cerro Colorado
+// -----------------------------------------------------------------------------
+
 #set page(
   paper: "a4",               // tamaño de hoja
   margin: 1.5cm              // margen uniforme en todos los lados
@@ -8,7 +15,7 @@
 #set text(size: 10pt, font: "Adwaita Mono")
 #show table.cell.where(y: 0): set text(fill: white, weight: "bold")
 
-//---toldo plegable----------------------------------------------------------------------
+//---toldo plegable 300/350---------------------------------
 
 #title[
 Especificaciones técnicas - Toldo plegable 
@@ -74,7 +81,7 @@ Especificaciones técnicas - Toldo plegable
   )
 )
 
-//---mesa plegable-----------------------------------------------------------------------
+//---mesa plegable 130/150-----------------------------------------
 
 #pagebreak()
 
@@ -138,7 +145,7 @@ Especificaciones técnicas - Mesa plegable
   )
 )
 
-//---silla plegable------------------------------------------------------------------
+//---silla plegable 120---------------------------------------------
 
 #pagebreak()
 
