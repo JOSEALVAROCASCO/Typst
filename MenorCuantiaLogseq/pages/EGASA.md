@@ -21,9 +21,10 @@
 	  :END:
 		- 120
 		- https://sodimac.falabella.com.pe/sodimac-pe/product/113324407/Silla-Plegable-Blanca/113324411?rid=recs%21pdp%21pe_f.com%21rec_1%21x%21buy_together%21PDP%21113324411%21x%213%21x
-- LATER Panel LED 36W/865 4680LM
+- DONE Panel LED 36W/865 4680LM
   :LOGBOOK:
   CLOCK: [2025-11-12 Wed 18:29:01]
   :END:
 	- 82.21
 	- https://www.promelsa.com.pe/panel-led-36w-865-4680lm-600x600mm-para-empotrar-1043689.html
+-
