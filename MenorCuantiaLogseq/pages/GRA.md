@@ -1,0 +1,7 @@
+- LATER  Escritorios de 3 Cajones
+	- ??
+	- https://placasdelperu.com.pe/escritorios-3cajones.html
+- LATER Televisor Samsung Smart TV 50
+	- 1400
+	- QN50Q65CAGXPE
+	- https://www.samsung.com/pe/tvs/qled-tv/q60c-50-inch-qled-4k-smart-tv-qn50q65cagxpe/#specs

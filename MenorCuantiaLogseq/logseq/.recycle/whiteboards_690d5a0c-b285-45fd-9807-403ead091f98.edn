@@ -1,0 +1,25 @@
+{:blocks (
+{:block/content "git@github.com:JOSEALVAROCASCO/COMPACTA.git"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "690d5a0c-b285-45fd-9807-403ead091f98"}
+:block/parent 
+{:block/uuid #uuid "690d5a0c-b285-45fd-9807-403ead091f98"}
+:block/uuid #uuid "690d5a10-f9e7-46cf-8d35-df70407d4eb6"})
+:pages (
+{:block/uuid #uuid "690d5a0c-b285-45fd-9807-403ead091f98"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "690d5a0c-b285-45fd-9807-403ead091f98"
+:name "690d5a0c-b285-45fd-9807-403ead091f98"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1762482781328
+:block/created-at 1762482700916
+:block/type "whiteboard"
+:block/name "690d5a0c-b285-45fd-9807-403ead091f98"
+:block/original-name "690d5a0c-b285-45fd-9807-403ead091f98"})}
